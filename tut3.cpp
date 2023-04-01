@@ -2,6 +2,7 @@
 using namespace std;
 // this program was created by hiba
  int main(){
-    cout<<"hello world";
+   int sum= 6;
+    cout<<"hello world"<< sum;
     return 0;
  }  
